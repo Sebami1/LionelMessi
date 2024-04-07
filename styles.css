@@ -145,7 +145,7 @@ footer {
 
 .ai-images img {
     width: 200px; /* Reduciendo la longitud */
-    height: 300px;
+    height: auto;
     margin: 15px;
     border: 2px solid #ccc; /* Agregando un borde */
     border-radius: 5px; /* Añadiendo bordes redondeados */
