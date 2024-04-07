@@ -80,7 +80,6 @@ footer {
     bottom: 0;
 }
 
-
 .qr-container {
     display: flex;
     align-items: center;
@@ -107,8 +106,6 @@ footer {
 .dual-container {
     display: flex;
     justify-content: space-between;
-    
-    
 }
 
 .gol {
@@ -123,7 +120,6 @@ footer {
     display: block; /* Añadimos para asegurar el centrado */
     margin-bottom: 10px;
 }
-
 
 #redes-sociales .qr-container img {
     width: 90px;
@@ -144,11 +140,10 @@ footer {
 }
 
 .ai-images img {
-    width: 200px; /* Reduciendo la longitud */
-    height: auto;
+    width: 180px; /* Reduciendo la longitud */
+    height: 300px;
     margin: 15px;
     border: 2px solid #ccc; /* Agregando un borde */
     border-radius: 5px; /* Añadiendo bordes redondeados */
     padding: 5px; /* Espaciado interno */
 }
-
