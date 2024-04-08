@@ -147,3 +147,7 @@ footer {
     border-radius: 5px; /* Añadiendo bordes redondeados */
     padding: 5px; /* Espaciado interno */
 }
+
+.ai-images img.wide {
+    width: 300px; /* Ancho aumentado para la última imagen */
+}
